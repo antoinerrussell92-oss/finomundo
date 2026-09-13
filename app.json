@@ -32,7 +32,7 @@
     "description": "Trilingual financial literacy and trading education app",
     "extra": {
       "eas": {
-        "projectId": ""
+        "projectId": "cd78afb6-c0fe-4546-8aed-1c1c14a514e3"
       }
     }
   }
